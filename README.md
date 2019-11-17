@@ -1,3 +1,6 @@
+![alt text](app-screenShot.png)
+
+
 ## Installation
 
 1. Clone repo
